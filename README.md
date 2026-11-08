@@ -16,7 +16,7 @@ hasta juegos multijugador en Roblox con lógica en el servidor, guardado persist
 | 🐉 **Mythical Beast Tycoon** 🔒 | Tycoon de criaturas mitológicas con servidor autoritativo, bloqueo de sesión anti-duplicados y desarrollo por fases documentado. | Luau · Roblox · Rojo |
 | 🚀 **[La nau PiaXXII](https://github.com/Quim21/projecte-Historia-Conversacional)** | Aventura conversacional de texto con diseño orientado a objetos, intérprete de órdenes y excepciones propias. | Python · POO |
 | ♟️ **[Ajedrez en terminal](https://github.com/Quim21/Programacio/tree/main/Projecte%20Escacs)** | Ajedrez para dos jugadores con validación de movimientos por pieza y tests. | Python · pytest |
-| 📝 **[RePia](https://github.com/Quim21/repia)** | App web con registro, inicio de sesión y CRUD en tiempo real. | JavaScript · Firebase |
+| 📝 **[RePia](https://github.com/Quim21/repia)**<br>[▶ Demo](https://quim21.github.io/repia/) | App web con registro, inicio de sesión y una lista privada por usuario guardada en la nube. | JavaScript · Firebase |
 
 🔒 *Código privado: más detalles en el [portafolio](https://quim21.github.io) y código disponible bajo petición.*
 
