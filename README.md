@@ -14,7 +14,7 @@ hasta juegos multijugador en Roblox con lógica en el servidor, guardado persist
 |---|---|---|
 | 💎 **Gem Rush Clicker** 🔒<br>[▶ Jugar en Roblox](https://www.roblox.com/games/86556561042617/Gem-Rush-Clicker) | Juego multijugador de Roblox publicado: clicker con 5 mundos, árbol de habilidades, mascotas, comercio entre jugadores y guardado por jugador. ~9.000 líneas y 20+ servicios de servidor. | Luau · Roblox · Rojo |
 | 🐉 **Mythical Beast Tycoon** 🔒 | Tycoon de criaturas mitológicas con servidor autoritativo, bloqueo de sesión anti-duplicados y desarrollo por fases documentado. | Luau · Roblox · Rojo |
-| 🚀 **[La nau PiaXXII](https://github.com/Quim21/projecte-Historia-Conversacional)** | Aventura conversacional de texto con diseño orientado a objetos, intérprete de órdenes y excepciones propias. | Python · POO |
+| 🚀 **[La nau PiaXXII](https://github.com/Quim21/projecte-Historia-Conversacional)**<br>[▶ Jugar en el navegador](https://quim21.github.io/piaxxii/) | Aventura conversacional de texto con diseño orientado a objetos, intérprete de órdenes y excepciones propias. Se juega en el navegador con Pyodide. | Python · POO |
 | ♟️ **[Ajedrez en terminal](https://github.com/Quim21/Programacio/tree/main/Projecte%20Escacs)** | Ajedrez para dos jugadores con validación de movimientos por pieza y tests. | Python · pytest |
 | 📝 **[RePia](https://github.com/Quim21/repia)**<br>[▶ Demo](https://quim21.github.io/repia/) | App web con registro, inicio de sesión y una lista privada por usuario guardada en la nube. | JavaScript · Firebase |
 
