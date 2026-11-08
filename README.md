@@ -38,9 +38,6 @@ hasta juegos multijugador en Roblox con lógica en el servidor, guardado persist
 
 ### 📫 Contacto
 
-<!-- Añade aquí tu LinkedIn o email si quieres que aparezcan:
-- 💼 [LinkedIn](https://www.linkedin.com/in/TU-USUARIO)
-- ✉️ tu@email.com
--->
+- ✉️ [quim.perez21@gmail.com](mailto:quim.perez21@gmail.com)
 - 🌐 [quim21.github.io](https://quim21.github.io)
 - 💻 [github.com/Quim21](https://github.com/Quim21)
