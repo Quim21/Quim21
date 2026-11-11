@@ -12,7 +12,7 @@ hasta juegos multijugador en Roblox con lógica en el servidor, guardado persist
 
 | Proyecto | Qué es | Stack |
 |---|---|---|
-| 💎 **Gem Rush Clicker** 🔒<br>[▶ Jugar en Roblox](https://www.roblox.com/games/86556561042617/Gem-Rush-Clicker) | Juego multijugador de Roblox publicado: clicker con 5 mundos, árbol de habilidades, mascotas, comercio entre jugadores y guardado por jugador. ~9.000 líneas y 20+ servicios de servidor. | Luau · Roblox · Rojo |
+| 💎 **Gem Rush Clicker** 🔒<br>[▶ Jugar en Roblox](https://www.roblox.com/games/86556561042617/Gem-Rush-Clicker) · [📊 Estadísticas](https://quim21.github.io/gem-rush/) | Juego multijugador de Roblox publicado: clicker con 5 mundos, árbol de habilidades, mascotas, comercio entre jugadores y guardado por jugador. ~9.000 líneas y 20+ servicios de servidor. | Luau · Roblox · Rojo |
 | 🐉 **Mythical Beast Tycoon** 🔒 | Tycoon de criaturas mitológicas con servidor autoritativo, bloqueo de sesión anti-duplicados y desarrollo por fases documentado. | Luau · Roblox · Rojo |
 | 🚀 **[La nau PiaXXII](https://github.com/Quim21/projecte-Historia-Conversacional)**<br>[▶ Jugar en el navegador](https://quim21.github.io/piaxxii/) | Aventura conversacional de texto con diseño orientado a objetos, intérprete de órdenes y excepciones propias. Se juega en el navegador con Pyodide. | Python · POO |
 | ♟️ **[Ajedrez](https://github.com/Quim21/Programacio/tree/main/Projecte%20Escacs)**<br>[▶ Jugar en el navegador](https://quim21.github.io/ajedrez/) | Ajedrez para dos jugadores con validación de movimientos por pieza y tests. En la web se juega en un tablero visual que usa las reglas del código Python original. | Python · pytest |
